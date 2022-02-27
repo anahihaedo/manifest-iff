@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://anahihaedo.github.io/manifest-iff/annotations/68b5e5ddf97f2afa1bbab820c241162b.json" ],
+  "@id" : "https://anahihaedo.github.io/manifest-iff/annotations/collection.json",
+  "label" : "All annotations loaded in anahihaedo/manifest-iff project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
