@@ -3,6 +3,11 @@
   "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Genealogy",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/92872546/867f4c3c396d348a1339b554b1f6c67f/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "[Anahi Haedo's personal work]",
@@ -42,6 +47,11 @@
         },
         "on" : "http://06e5c71f-aabe-4161-88ce-e26e6a5dc0ea"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://anahihaedo.github.io/manifest-iff/annotations/68b5e5ddf97f2afa1bbab820c241162b.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://560106e7-7506-4aad-8fc9-bde4995e8cde",
@@ -67,6 +77,11 @@
           "width" : 1002
         },
         "on" : "http://560106e7-7506-4aad-8fc9-bde4995e8cde"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://anahihaedo.github.io/manifest-iff/annotations/524156d125362a4ee7f940102ba393ce.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
       } ],
       "related" : ""
     }, {
@@ -94,6 +109,11 @@
         },
         "on" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://anahihaedo.github.io/manifest-iff/annotations/069f561a0c813bad5c133baf96583ad6.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://04cf9a34-e7f4-4b46-80c0-767abc4af677",
@@ -119,6 +139,11 @@
           "width" : 960
         },
         "on" : "http://04cf9a34-e7f4-4b46-80c0-767abc4af677"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://anahihaedo.github.io/manifest-iff/annotations/566a5d1fe6e5aa6553d84c30750da7d7.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My annotations"
       } ],
       "related" : ""
     } ]
