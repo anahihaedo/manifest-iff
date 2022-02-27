@@ -1,0 +1,138 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<pre id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" style=\"text-align: left;\" data-placeholder=\"Tradu&ccedil;&atilde;o\"><span class=\"Y2IQFc\" lang=\"en\">March 10th, 1806.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<pre id=\"tw-target-text\" class=\"tw-data-text tw-text-large tw-ta\" dir=\"ltr\" style=\"text-align: left;\" data-placeholder=\"Tradu&ccedil;&atilde;o\"><span class=\"Y2IQFc\" lang=\"en\">March 10th, 1806.</span></pre>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:14:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645956894778",
+    "dcterms:modified" : "2022-02-27T10:21:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=411,13,251,64"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M411.5,12.54545h125.54545v0h125.54545v31.90909v31.90909h-125.54545h-125.54545v-31.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e481711a-13dc-4344-9438-52f5f0c04a73\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"3.28166\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://560106e7-7506-4aad-8fc9-bde4995e8cde"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ana Maria Visca",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ana Maria Visca</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:15:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645956942561",
+    "dcterms:modified" : "2022-02-27T10:15:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=200,128,210,26"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M200.11144,127.87657h104.99537v0h104.99537v12.76418v12.76418h-104.99537h-104.99537v-12.76418z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0416de25-c0e8-46c1-afab-708522edb78e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://560106e7-7506-4aad-8fc9-bde4995e8cde"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Thomas Lorenzo Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Thomas Lorenzo Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:12:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645956776867",
+    "dcterms:modified" : "2022-02-27T10:18:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=9,33,125,142"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M9.48581,32.82151h62.25764v0h62.25764v71.00873v71.00873h-62.25764h-62.25764v-71.00873z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_42835eff-2eb8-4222-a8a1-4e5dd5638ae1\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.15614\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://560106e7-7506-4aad-8fc9-bde4995e8cde"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Thoma Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Thoma Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:16:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645956983111",
+    "dcterms:modified" : "2022-02-27T10:16:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=709,65,158,58"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M709.26525,64.82056h79.11417v0h79.11417v28.76347v28.76347h-79.11417h-79.11417v-28.76347z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_24ac1c3c-804f-4cb2-bc11-9ed4ada0eb41\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://560106e7-7506-4aad-8fc9-bde4995e8cde"
+    } ]
+  } ],
+  "@id" : "https://anahihaedo.github.io/manifest-iff/annotations/524156d125362a4ee7f940102ba393ce.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
