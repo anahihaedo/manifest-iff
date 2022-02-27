@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Montevideo to Garibaldi - Leader of the Republican Navy Force - 1842-1848.\n<a href=\"https://en.wikipedia.org/wiki/Uruguayan_Civil_War\" target=\"_blank\" rel=\"noopener\">https://en.wikipedia.org/wiki/Uruguayan_Civil_War",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Montevideo to Garibaldi - Leader of the Republican Navy Force - 1842-1848.</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Uruguayan_Civil_War\" target=\"_blank\" rel=\"noopener\">https://en.wikipedia.org/wiki/Uruguayan_Civil_War</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:31:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645957863643",
+    "dcterms:modified" : "2022-02-27T10:33:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=391,608,239,138"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M390.83733,608.13871h119.63808v0h119.63808v68.79319v68.79319h-119.63808h-119.63808v-68.79319z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_1f25e2c5-266e-4bde-91a2-f59731d1e007\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"10.37951\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04cf9a34-e7f4-4b46-80c0-767abc4af677"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Giuseppe Garibaldi\n<a href=\"https://en.wikipedia.org/wiki/Giuseppe_Garibaldi\" target=\"_blank\" rel=\"noopener\">https://en.wikipedia.org/wiki/Giuseppe_Garibaldi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Giuseppe Garibaldi</p>\n<p><a href=\"https://en.wikipedia.org/wiki/Giuseppe_Garibaldi\" target=\"_blank\" rel=\"noopener\">https://en.wikipedia.org/wiki/Giuseppe_Garibaldi</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:32:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645957938146",
+    "dcterms:modified" : "2022-02-27T10:32:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=493,92,115,88"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M492.52711,91.61917h57.49433v0h57.49433v43.77427v43.77427h-57.49433h-57.49433v-43.77427z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_739031c2-f0b8-4942-a375-1938a931d1aa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://04cf9a34-e7f4-4b46-80c0-767abc4af677"
+    } ]
+  } ],
+  "@id" : "https://anahihaedo.github.io/manifest-iff/annotations/566a5d1fe6e5aa6553d84c30750da7d7.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
