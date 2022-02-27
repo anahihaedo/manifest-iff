@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json",
     "label" : "Genealogy"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/Genealogy2",
+    "label" : "Genealogy"
   } ]
 }
