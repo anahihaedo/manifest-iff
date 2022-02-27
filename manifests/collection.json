@@ -11,10 +11,6 @@
     "label" : "Genealogy"
   }, {
     "@type" : "sc:Manifest",
-    "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/Genealogy2",
-    "label" : "Genealogy"
-  }, {
-    "@type" : "sc:Manifest",
     "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest3.json",
     "label" : "Genealogy"
   } ]
