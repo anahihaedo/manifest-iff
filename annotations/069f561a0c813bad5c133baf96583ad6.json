@@ -1,0 +1,864 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Armando Uruguay Gonzalez Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Armando Uruguay Gonzalez Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:48:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958928774",
+    "dcterms:modified" : "2022-02-27T10:48:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1286,215,91,89"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1299.26593,228.15263c8.42482,-7.48451 20.30938,-13.05798 32.25155,-13.05132v0v0c11.94216,0.00666 22.34579,5.22054 32.25155,13.05132c9.90576,7.83077 13.756,19.76336 13.35903,31.50867c-0.39698,11.74531 -5.04117,23.30333 -13.35903,31.50867c-8.31786,8.20533 -20.30938,13.05798 -32.25155,13.05132c-11.94216,-0.00666 -23.83496,-4.87262 -32.25155,-13.05132c-8.41659,-8.1787 -13.35697,-19.67014 -13.35903,-31.50867c-0.00206,-11.83853 4.93421,-24.02415 13.35903,-31.50867z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_50b0d24f-c1d6-4688-9a8c-bb7444b735ca\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "H&eacute;ctor Poggi Rocca",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>H&eacute;ctor Poggi Rocca</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:49:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958970043",
+    "dcterms:modified" : "2022-02-27T10:49:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=237,337,85,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M249.16247,348.87779c7.84265,-6.77866 18.90597,-11.8265 30.02291,-11.82047v0v0c11.11694,0.00603 20.80165,4.7282 30.02291,11.82047c9.22125,7.09227 12.80544,17.89952 12.43589,28.53715c-0.36954,10.63763 -4.69281,21.10564 -12.43589,28.53715c-7.74308,7.4315 -18.90597,11.8265 -30.02291,11.82047c-11.11694,-0.00603 -22.18792,-4.41309 -30.02291,-11.82047c-7.83499,-7.40738 -12.43398,-17.81508 -12.43589,-28.53715c-0.00191,-10.72206 4.59325,-21.75848 12.43589,-28.53715z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_f98e50ef-c61a-4881-bb36-ac7b1973a9be\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Maria Julia Areco Cotro",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Maria Julia Areco Cotro</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:46:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958800736",
+    "dcterms:modified" : "2022-02-27T10:46:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=882,224,53,87"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M890.19624,236.81227c4.9318,-7.30805 11.8889,-12.75011 18.87971,-12.74361v0v0c6.99081,0.0065 13.08098,5.09746 18.87971,12.74361c5.79872,7.64615 8.05262,19.2974 7.82023,30.76579c-0.23238,11.46839 -2.95105,22.75391 -7.82023,30.76579c-4.86919,8.01188 -11.8889,12.75011 -18.87971,12.74361c-6.99081,-0.0065 -13.95273,-4.75774 -18.87971,-12.74361c-4.92698,-7.98587 -7.81903,-19.20637 -7.82023,-30.76579c-0.0012,-11.55941 2.88843,-23.45774 7.82023,-30.76579z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_1e27a5dd-1ff6-4a44-bbcf-766a3470fe5f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nen&eacute; Artecona Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Nen&eacute; Artecona Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:44:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958682771",
+    "dcterms:modified" : "2022-02-27T10:44:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=493,249,45,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M499.78226,260.99773c4.15557,-6.77866 10.01768,-11.8265 15.90819,-11.82047v0v0c5.89051,0.00603 11.02214,4.7282 15.90819,11.82047c4.88605,7.09227 6.7852,17.89952 6.58939,28.53715c-0.19581,10.63763 -2.48657,21.10564 -6.58939,28.53715c-4.10281,7.4315 -10.01768,11.8265 -15.90819,11.82047c-5.89051,-0.00603 -11.75668,-4.41309 -15.90819,-11.82047c-4.15151,-7.40738 -6.58837,-17.81508 -6.58939,-28.53715c-0.00101,-10.72206 2.43382,-21.75848 6.58939,-28.53715z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_982ca992-1553-4e16-b73e-6bbe20839f7b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Santiago Poggi Rocca",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Santiago Poggi Rocca</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:45:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958701935",
+    "dcterms:modified" : "2022-02-27T10:45:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=592,208,72,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M602.42339,219.7479c6.67831,-6.77866 16.09914,-11.8265 25.56563,-11.82047v0v0c9.46649,0.00603 17.71338,4.7282 25.56563,11.82047c7.85224,7.09227 10.90431,17.89952 10.58963,28.53715c-0.31468,10.63763 -3.99611,21.10564 -10.58963,28.53715c-6.59352,7.4315 -16.09914,11.8265 -25.56563,11.82047c-9.46649,-0.00603 -18.89384,-4.41309 -25.56563,-11.82047c-6.67178,-7.40738 -10.588,-17.81508 -10.58963,-28.53715c-0.00163,-10.72206 3.91132,-21.75848 10.58963,-28.53715z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_3c87bbc0-e54f-40d7-be4a-2db3aa73b4e9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Blanca Poggi Etchebarne",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Blanca Poggi Etchebarne</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:50:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645959028939",
+    "dcterms:modified" : "2022-02-27T10:50:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1225,362,66,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1234.5954,373.98638c6.09614,-6.77866 14.69573,-11.8265 23.33699,-11.82047v0v0c8.64126,0.00603 16.16925,4.7282 23.33699,11.82047c7.16774,7.09227 9.95374,17.89952 9.6665,28.53715c-0.28725,10.63763 -3.64775,21.10564 -9.6665,28.53715c-6.01874,7.4315 -14.69573,11.8265 -23.33699,11.82047c-8.64126,-0.00603 -17.2468,-4.41309 -23.33699,-11.82047c-6.09018,-7.40738 -9.66501,-17.81508 -9.6665,-28.53715c-0.00149,-10.72206 3.57036,-21.75848 9.6665,-28.53715z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_2a1d5256-1ea7-4d8e-92e6-4dc664a5f072\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rosa Rocca Duglio",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Rosa Rocca Duglio</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:49:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958984751",
+    "dcterms:modified" : "2022-02-27T10:49:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=400,384,87,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M412.67601,395.50803c8.0367,-6.77866 19.37377,-11.8265 30.76579,-11.82047v0v0c11.39201,0.00603 21.31636,4.7282 30.76579,11.82047c9.44942,7.09227 13.12229,17.89952 12.74361,28.53715c-0.37869,10.63763 -4.80893,21.10564 -12.74361,28.53715c-7.93467,7.4315 -19.37377,11.8265 -30.76579,11.82047c-11.39201,-0.00603 -22.73693,-4.41309 -30.76579,-11.82047c-8.02885,-7.40738 -12.74164,-17.81508 -12.74361,-28.53715c-0.00196,-10.72206 4.7069,-21.75848 12.74361,-28.53715z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_ba9de401-5c07-459e-be03-0c091fca990a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jos&eacute; Carlos Poggi Areco",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jos&eacute; Carlos Poggi Areco</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:51:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645959076399",
+    "dcterms:modified" : "2022-02-27T10:51:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=710,577,66,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M719.86932,589.20286c6.09614,-6.77866 14.69573,-11.8265 23.33699,-11.82047v0v0c8.64126,0.00603 16.16925,4.7282 23.33699,11.82047c7.16774,7.09227 9.95374,17.89952 9.6665,28.53715c-0.28725,10.63763 -3.64775,21.10564 -9.6665,28.53715c-6.01874,7.4315 -14.69573,11.8265 -23.33699,11.82047c-8.64126,-0.00603 -17.2468,-4.41309 -23.33699,-11.82047c-6.09018,-7.40738 -9.66501,-17.81508 -9.6665,-28.53715c-0.00149,-10.72206 3.57036,-21.75848 9.6665,-28.53715z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_303fe95b-233e-4229-8375-b64cd84ce8f2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Esperanza Poggi Rocca",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Esperanza Poggi Rocca</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:46:02",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958762553",
+    "dcterms:modified" : "2022-02-27T10:46:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=812,242,58,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M820.86631,253.82384c5.31991,-6.77866 12.82451,-11.8265 20.36547,-11.82047v0v0c7.54096,0.00603 14.11041,4.7282 20.36547,11.82047c6.25506,7.09227 8.68633,17.89952 8.43565,28.53715c-0.25067,10.63763 -3.18328,21.10564 -8.43565,28.53715c-5.25237,7.4315 -12.82451,11.8265 -20.36547,11.82047c-7.54096,-0.00603 -15.05075,-4.41309 -20.36547,-11.82047c-5.31471,-7.40738 -8.43435,-17.81508 -8.43565,-28.53715c-0.0013,-10.72206 3.11574,-21.75848 8.43565,-28.53715z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_94d1445c-3602-4b76-bd1d-4958039acfe7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lila Blanca Gonzalez Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lila Blanca Gonzalez Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:40:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958455406",
+    "dcterms:modified" : "2022-02-27T10:40:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=941,241,50,69"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M948.38015,250.54834c4.57782,-5.75291 11.03557,-10.03691 17.52462,-10.03179v0v0c6.48905,0.00512 12.1421,4.01273 17.52462,10.03179c5.38252,6.01906 7.47464,15.19096 7.25893,24.21889c-0.21571,9.02794 -2.73923,17.91193 -7.25893,24.21889c-4.5197,6.30697 -11.03557,10.03691 -17.52462,10.03179c-6.48905,-0.00512 -12.95127,-3.7453 -17.52462,-10.03179c-4.57335,-6.28649 -7.25782,-15.1193 -7.25893,-24.21889c-0.00112,-9.0996 2.68112,-18.46598 7.25893,-24.21889z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_f4dcc93a-85ab-40e9-81be-7601a24c9847\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mario Artecona Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mario Artecona Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:47:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958868776",
+    "dcterms:modified" : "2022-02-27T10:47:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1060,228,45,64"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1066.51899,237.01439c4.15557,-5.36696 10.01768,-9.36356 15.90819,-9.35879v0v0c5.89051,0.00477 11.02214,3.74353 15.90819,9.35879c4.88605,5.61526 6.7852,14.17183 6.58939,22.59411c-0.19581,8.42228 -2.48657,16.71026 -6.58939,22.59411c-4.10281,5.88385 -10.01768,9.36356 -15.90819,9.35879c-5.89051,-0.00477 -11.75668,-3.49404 -15.90819,-9.35879c-4.15151,-5.86475 -6.58837,-14.10498 -6.58939,-22.59411c-0.00101,-8.48913 2.43382,-17.22714 6.58939,-22.59411z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_030890ab-1a64-4555-80ac-583aee5eca39\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dufau Brignone",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dufau Brignone</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:42:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958539639",
+    "dcterms:modified" : "2022-02-27T10:42:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=115,210,34,83"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M119.8214,221.84908c3.18529,-6.95513 7.67865,-12.13437 12.19379,-12.12818v0v0c4.51514,0.00619 8.44858,4.85129 12.19379,12.12818c3.74521,7.27689 5.20092,18.36548 5.05083,29.28003c-0.15009,10.91455 -1.90598,21.65506 -5.05083,29.28003c-3.14485,7.62496 -7.67865,12.13437 -12.19379,12.12818c-4.51514,-0.00619 -9.01161,-4.52797 -12.19379,-12.12818c-3.18218,-7.60021 -5.05006,-18.27885 -5.05083,-29.28003c-0.00078,-11.00118 1.86555,-22.3249 5.05083,-29.28003z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_c71b00fd-2d9c-43eb-b998-7a7008a1ef1b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Jos&eacute; Carlos Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Jos&eacute; Carlos Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:41:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958510275",
+    "dcterms:modified" : "2022-02-27T10:41:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=21,172,83,102"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M33.37893,186.71484c7.63803,-8.53567 18.41271,-14.89189 29.2396,-14.8843v0v0c10.82689,0.00759 20.25893,5.95374 29.2396,14.8843c8.98067,8.93056 12.47134,22.53901 12.11144,35.93388c-0.3599,13.39487 -4.57038,26.57615 -12.11144,35.93388c-7.54106,9.35773 -18.41271,14.89189 -29.2396,14.8843c-10.82689,-0.00759 -21.60903,-5.55695 -29.2396,-14.8843c-7.63057,-9.32735 -12.10957,-22.43269 -12.11144,-35.93388c-0.00186,-13.50118 4.47341,-27.39821 12.11144,-35.93388z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_b9e604e8-aef6-4012-8153-9413bbeef722\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Blanca Cristina Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Blanca Cristina Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:40:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958429036",
+    "dcterms:modified" : "2022-02-27T10:40:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=176,232,67,86"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M185.94842,245.00942c6.18079,-7.21055 14.89979,-12.58 23.66104,-12.57358v0v0c8.76125,0.00642 16.39377,5.02945 23.66104,12.57358c7.26727,7.54413 10.09196,19.03994 9.80072,30.35531c-0.29124,11.31538 -3.6984,22.45033 -9.80072,30.35531c-6.10232,7.90498 -14.89979,12.58 -23.66104,12.57358c-8.76125,-0.00642 -17.48629,-4.69426 -23.66104,-12.57358c-6.17475,-7.87932 -9.79921,-18.95012 -9.80072,-30.35531c-0.00151,-11.40519 3.61994,-23.14477 9.80072,-30.35531z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_e467ac3b-1d2f-4def-93b3-4dad6bae7867\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Golden wedding anniversary of Santiago Poggi and Teresa Rocca Duglio, May 1937, Corner of Larravide and 8 de Octubre and Joanico streets - Union",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Golden wedding anniversary of Santiago Poggi and Teresa Rocca Duglio, May 1937, Corner of Larravide and 8 de Octubre and Joanico streets - Union</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:28:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645957736576",
+    "dcterms:modified" : "2022-02-27T10:28:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=110,1003,1199,36"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M110.0599,1003.25599h599.64565v0h599.64565v17.8348v17.8348h-599.64565h-599.64565v-17.8348z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_10b4e25e-d70f-4198-a85f-27999102ed5e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Daniel Artecona Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Daniel Artecona Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:51:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645959091156",
+    "dcterms:modified" : "2022-02-27T10:51:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=879,611,70,83"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M889.07098,623.58651c6.48425,-6.95513 15.63133,-12.13437 24.82275,-12.12818v0v0c9.19141,0.00619 17.19867,4.85129 24.82275,12.12818c7.62407,7.27689 10.58745,18.36548 10.28192,29.28003c-0.30554,10.91455 -3.87999,21.65506 -10.28192,29.28003c-6.40193,7.62496 -15.63133,12.13437 -24.82275,12.12818c-9.19141,-0.00619 -18.34483,-4.52797 -24.82275,-12.12818c-6.47792,-7.60021 -10.28034,-18.27885 -10.28192,-29.28003c-0.00158,-11.00118 3.79767,-22.3249 10.28192,-29.28003z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_d06b635a-62ef-4eb2-a440-5d1fd74ea5c3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Eduardo Artecona",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Eduardo Artecona</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:45:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958721982",
+    "dcterms:modified" : "2022-02-27T10:45:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=707,217,74,83"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M717.51322,229.02297c6.87236,-6.95513 16.56694,-12.13437 26.30851,-12.12818v0v0c9.74156,0.00619 18.2281,4.85129 26.30851,12.12818c8.08041,7.27689 11.22116,18.36548 10.89734,29.28003c-0.32382,10.91455 -4.11222,21.65506 -10.89734,29.28003c-6.78512,7.62496 -16.56694,12.13437 -26.30851,12.12818c-9.74156,-0.00619 -19.44285,-4.52797 -26.30851,-12.12818c-6.86565,-7.60021 -10.89566,-18.27885 -10.89734,-29.28003c-0.00168,-11.00118 4.02498,-22.3249 10.89734,-29.28003z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_b3db3f69-a785-46dd-9d4e-f27207745560\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Santiago Poggi\n<a href=\"https://launionhistoriayurbanismo.wordpress.com/semblanzas/poggi-santiago/\" target=\"_blank\" rel=\"noopener\">https://launionhistoriayurbanismo.wordpress.com/semblanzas/poggi-santiago/",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Santiago Poggi</p>\n<p><a href=\"https://launionhistoriayurbanismo.wordpress.com/semblanzas/poggi-santiago/\" target=\"_blank\" rel=\"noopener\">https://launionhistoriayurbanismo.wordpress.com/semblanzas/poggi-santiago/</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:52:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645959149279",
+    "dcterms:modified" : "2022-02-27T10:52:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=610,355,77,93"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M620.97352,368.65876c7.06642,-7.83744 17.03475,-13.67371 27.05139,-13.66674v0v0c10.01664,0.00697 18.74281,5.46671 27.05139,13.66674c8.30858,8.20003 11.53802,20.69528 11.20505,32.99442c-0.33297,12.29914 -4.22834,24.40218 -11.20505,32.99442c-6.97671,8.59225 -17.03475,13.67371 -27.05139,13.66674c-10.01664,-0.00697 -19.99187,-5.10238 -27.05139,-13.66674c-7.05952,-8.56436 -11.20333,-20.59766 -11.20505,-32.99442c-0.00173,-12.39676 4.13863,-25.15699 11.20505,-32.99442z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_129d3bc2-3248-45b9-8e28-c53ae2c0ce31\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Eduardo Artecona Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Eduardo Artecona Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:42:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958563984",
+    "dcterms:modified" : "2022-02-27T10:42:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=298,228,72,74"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M308.29421,238.55295c6.67831,-6.24928 16.09914,-10.9029 25.56563,-10.89734v0v0c9.46649,0.00556 17.71338,4.35895 25.56563,10.89734c7.85224,6.53839 10.90431,16.50163 10.58963,26.30851c-0.31468,9.80687 -3.99611,19.45737 -10.58963,26.30851c-6.59352,6.85113 -16.09914,10.9029 -25.56563,10.89734c-9.46649,-0.00556 -18.89384,-4.06845 -25.56563,-10.89734c-6.67178,-6.82889 -10.588,-16.4238 -10.58963,-26.30851c-0.00163,-9.88471 3.91132,-20.05923 10.58963,-26.30851z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_04bb0cb1-581d-4ce2-8968-8774d89131dc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Agustina Lagardera Duglio",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Agustina Lagardera Duglio</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:50:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645959011208",
+    "dcterms:modified" : "2022-02-27T10:50:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1024,364,60,106"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1032.80355,379.47238c5.51397,-8.89621 13.29231,-15.52092 21.10835,-15.513v0v0c7.81604,0.00791 14.62512,6.20522 21.10835,15.513c6.48323,9.30778 9.00318,23.49105 8.74336,37.4517c-0.25982,13.96066 -3.2994,27.69871 -8.74336,37.4517c-5.44396,9.75299 -13.29231,15.52092 -21.10835,15.513c-7.81604,-0.00791 -15.59977,-5.79167 -21.10835,-15.513c-5.50858,-9.72133 -8.74202,-23.38024 -8.74336,-37.4517c-0.00135,-14.07147 3.2294,-28.55549 8.74336,-37.4517z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_19dab7e0-87f1-4d61-bb53-6eb4c177d069\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mario Poggi Etchebarne",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Mario Poggi Etchebarne</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:48:16",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958896805",
+    "dcterms:modified" : "2022-02-27T10:48:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1157,204,77,98"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1167.98207,218.62265c7.06642,-8.19036 17.03475,-14.28945 27.05139,-14.28216v0v0c10.01664,0.00729 18.74281,5.71288 27.05139,14.28216c8.30858,8.56928 11.53802,21.6272 11.20505,34.48018c-0.33297,12.85298 -4.22834,25.50102 -11.20505,34.48018c-6.97671,8.97916 -17.03475,14.28945 -27.05139,14.28216c-10.01664,-0.00729 -19.99187,-5.33215 -27.05139,-14.28216c-7.05952,-8.95001 -11.20333,-21.52519 -11.20505,-34.48018c-0.00173,-12.955 4.13863,-26.28982 11.20505,-34.48018z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_5da42db0-eece-495e-b387-b3cdcd50e786\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Miguel Angel Poggi Rocca",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Miguel Angel Poggi Rocca</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:47:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958837819",
+    "dcterms:modified" : "2022-02-27T10:47:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1015,188,41,70"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1021.0668,198.48117c3.76746,-5.89635 9.08207,-10.28716 14.42243,-10.28192v0v0c5.34036,0.00525 9.99271,4.11278 14.42243,10.28192c4.42971,6.16914 6.15149,15.56971 5.97397,24.82275c-0.17752,9.25303 -2.25434,18.35853 -5.97397,24.82275c-3.71963,6.46422 -9.08207,10.28716 -14.42243,10.28192c-5.34036,-0.00525 -10.65865,-3.83868 -14.42243,-10.28192c-3.76378,-6.44324 -5.97305,-15.49627 -5.97397,-24.82275c-0.00092,-9.32648 2.20651,-18.9264 5.97397,-24.82275z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_a61e7d0d-1198-4e65-b5f6-6a9a36e1011d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Santiago Poggi Etchebarne",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Santiago Poggi Etchebarne</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:44:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958645251",
+    "dcterms:modified" : "2022-02-27T10:44:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=443,194,56,68"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M451.10364,203.55387c5.12585,-5.71989 12.3567,-9.9793 19.62259,-9.97421v0v0c7.26589,0.00509 13.59569,3.9897 19.62259,9.97421c6.02689,5.98451 8.36947,15.10375 8.12794,24.07987c-0.24153,8.97611 -3.06716,17.8091 -8.12794,24.07987c-5.06078,6.27076 -12.3567,9.9793 -19.62259,9.97421c-7.26589,-0.00509 -14.50174,-3.7238 -19.62259,-9.97421c-5.12085,-6.25041 -8.12669,-15.03251 -8.12794,-24.07987c-0.00125,-9.04736 3.00209,-18.35998 8.12794,-24.07987z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_72ebb281-6cb3-4e37-b618-de8427f6c3de\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Horacio Poggi Areco",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Horacio Poggi Areco</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:50:51",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645959051332",
+    "dcterms:modified" : "2022-02-27T10:50:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=551,579,100,108"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M565.17381,594.99657c9.20104,-9.07267 22.1806,-15.82879 35.22306,-15.82071v0v0c13.04246,0.00807 24.40463,6.32831 35.22306,15.82071c10.81843,9.49241 15.02342,23.95701 14.58987,38.19458c-0.43355,14.23758 -5.50564,28.24814 -14.58987,38.19458c-9.08423,9.94645 -22.1806,15.82879 -35.22306,15.82071c-13.04246,-0.00807 -26.03101,-5.90655 -35.22306,-15.82071c-9.19206,-9.91416 -14.58762,-23.844 -14.58987,-38.19458c-0.00225,-14.35058 5.38883,-29.12191 14.58987,-38.19458z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_0bf0af4f-ad3e-433e-b288-0e041b85b74e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Maria Mercedes Poggi",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Maria Mercedes Poggi</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:43:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958598346",
+    "dcterms:modified" : "2022-02-27T10:43:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=396,220,47,81"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M403.24256,232.3022c4.34963,-6.77866 10.48548,-11.8265 16.65107,-11.82047v0v0c6.16559,0.00603 11.53685,4.7282 16.65107,11.82047c5.11422,7.09227 7.10205,17.89952 6.8971,28.53715c-0.20495,10.63763 -2.60269,21.10564 -6.8971,28.53715c-4.29441,7.4315 -10.48548,11.8265 -16.65107,11.82047c-6.16559,-0.00603 -12.30569,-4.41309 -16.65107,-11.82047c-4.34538,-7.40738 -6.89604,-17.81508 -6.8971,-28.53715c-0.00106,-10.72206 2.54747,-21.75848 6.8971,-28.53715z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_89bc363f-5c63-4a23-8108-2703ebc63168\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Teresa Rocca Duglio",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Teresa Rocca Duglio</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:39:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645958395158",
+    "dcterms:modified" : "2022-02-27T10:39:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=767,367,72,92"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M777.87997,380.61214c6.61796,-7.7406 15.95366,-13.50476 25.33461,-13.49787v0v0c9.38094,0.00689 17.55332,5.39917 25.33461,13.49787c7.78129,8.0987 10.80577,20.43957 10.49394,32.58674c-0.31184,12.14717 -3.96,24.10066 -10.49394,32.58674c-6.53394,8.48608 -15.95366,13.50476 -25.33461,13.49787c-9.38094,-0.00689 -18.72311,-5.03934 -25.33461,-13.49787c-6.6115,-8.45853 -10.49232,-20.34315 -10.49394,-32.58674c-0.00162,-12.24359 3.87598,-24.84614 10.49394,-32.58674z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_6aeae139-657d-41ac-a301-fe66d17c830a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://7a853eeb-0f23-49c0-9ac6-3840ae2ca4d3"
+    } ]
+  } ],
+  "@id" : "https://anahihaedo.github.io/manifest-iff/annotations/069f561a0c813bad5c133baf96583ad6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
