@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Montevideo, Uruguay.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Montevideo, Uruguay.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:55:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645959339835",
+    "dcterms:modified" : "2022-02-27T10:55:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=233,608,104,55"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M233.31818,608.42841h51.90909v0h51.90909v27.36364v27.36364h-51.90909h-51.90909v-27.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2cdbc94d-9c2d-46b6-8b75-6ef65ee4c98f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#0000ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://06e5c71f-aabe-4161-88ce-e26e6a5dc0ea"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Recife, Pernambuco, Brazil.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Recife, Pernambuco, Brazil.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:54:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645959265283",
+    "dcterms:modified" : "2022-02-27T10:54:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=340,469,33,20"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M340.17024,468.80958h16.62421v0h16.62421v9.85372v9.85372h-16.62421h-16.62421v-9.85372z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_31c328cb-7ffc-4d0b-ada1-fd31eb064d76\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff00ff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://06e5c71f-aabe-4161-88ce-e26e6a5dc0ea"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Noli, Savona, Italy.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Noli, Savona, Italy.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/92872546",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-02-27T10:56:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1645959382892",
+    "dcterms:modified" : "2022-02-27T10:56:22",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://anahihaedo.github.io/manifest-iff/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=573,135,99,77"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M573.31818,135.24659h49.63636v0h49.63636v38.27273v38.27273h-49.63636h-49.63636v-38.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c81b5e7f-adb5-4884-bc70-76e9e3ebbb01\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#008000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://06e5c71f-aabe-4161-88ce-e26e6a5dc0ea"
+    } ]
+  } ],
+  "@id" : "https://anahihaedo.github.io/manifest-iff/annotations/68b5e5ddf97f2afa1bbab820c241162b.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
